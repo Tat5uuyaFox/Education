@@ -1,0 +1,21 @@
+[title] {
+    color: rgb(255, 0, 0); 
+}
+p[title] {
+    color: rgb(21, 255, 0); 
+}
+p[title="привет"] {
+    color: rgb(0, 225, 255); 
+}
+a[href^="http://"] {
+    color: rgb(255, 102, 0); 
+}
+a[href$=".html"] {
+    color: rgb(251, 255, 0); 
+}
+p[title*="привет"] {
+    color: rgb(255, 0, 128); 
+}
+p[class^="top-"] {
+    color: rgb(102, 102, 102); 
+}

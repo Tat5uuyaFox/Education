@@ -1,0 +1,15 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: arial;
+}
+h2 {
+    font-size: 40px;
+    font-weight: normal;
+    font-family: "Comic Sans MS";
+}
+p {
+    font-size: 30px;
+    line-height: 15px;
+    font-family: Impact;
+}
