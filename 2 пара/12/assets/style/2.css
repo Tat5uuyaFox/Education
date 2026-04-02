@@ -1,0 +1,15 @@
+/* #elem h2 {
+    color: red;
+}
+#elem .text {
+    color: red;
+} */
+/* #elem p.text {
+    color: red;
+} */
+#elem li.text {
+    color: red;
+}
+.eee.zzz.ccc {
+    color: red;
+}

@@ -1,0 +1,9 @@
+#elem + li {
+    color: red;
+}
+.elem + li {
+    color: #ff0000;
+}
+main * p {
+    color: rgb(226, 43, 43);
+}
