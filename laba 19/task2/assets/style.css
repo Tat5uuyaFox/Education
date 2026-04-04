@@ -1,0 +1,17 @@
+#z {
+    border: 10px solid red;
+    width: 430px;
+    margin: 30px;
+    height: 230px;
+}
+
+#y {
+    border: 10px dashed green;
+    height: 300px;
+    margin: 30px;
+}
+
+#x {
+    border: 10px dashed blue;
+    width: 600px;
+}
