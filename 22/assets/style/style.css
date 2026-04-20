@@ -1,0 +1,80 @@
+.p {
+    display: inline;
+}
+.a {
+    display: block;
+    width: 100px;
+    height: 50px;
+    border: 1px solid red;
+} */
+.elem {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    display: inline-block;
+}
+.ppp {
+    width: 500px;
+    height: 240px;
+    border: 1px solid red;
+}
+.pp1 {
+    margin: 5px auto;
+    border: 1px solid green;
+    width: 70px;
+    height: 70px;
+}
+.pp2 {
+    margin: 5px auto;
+    border: 1px solid green;
+    width: 140px;
+    height: 70px;
+}
+.pp3 {
+    margin: 5px auto;
+    border: 1px solid green;
+    width: 210px;
+    height: 70px;
+}
+.parent {
+    text-align: center;
+    padding: 10px 0;
+    border: 1px solid red;
+}
+.parent1 {
+    text-align: right;
+    padding: 10px 10px;
+    border: 1px solid red;
+}
+.parent2 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: center;
+}
+.parent2 .child {
+    padding: 10px;
+    border: 1px solid green;
+    display: inline-block;
+}
+.parent3 {
+    padding: 10px 10px;
+    border: 1px solid red;
+    text-align: right;
+}
+.parent3 .child {
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid green;
+    display: inline-block;
+}
+.parent4 {
+    padding: 10px 40px;
+    border: 1px solid red;
+    text-align: right;
+}
+.parent4 a {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid green;
+    display: inline-block;
+}

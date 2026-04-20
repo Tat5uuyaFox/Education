@@ -1,0 +1,32 @@
+.elem {
+    border: 2px solid red;
+    width: 200px;
+    padding: 38px;
+    text-align: justify;
+}
+.elem2 {
+    border: 2px solid green;
+    width: 500px;
+    padding: 10px;
+    text-align: justify;
+}
+.elem3 {
+    border: 2px solid red;
+    width: 300px;
+    padding: 10px;
+    text-align: justify;
+}
+.abc {
+    width: 100px;
+    height: 100px;
+    background: #f1f1f1;
+    margin-bottom: 20px;
+}
+.abc2 {
+    padding: 25px;
+    width: 100px;
+    height: 100px;
+    background: #f1f1f1;
+    border: 10px solid green;
+    box-sizing: border-box;
+}

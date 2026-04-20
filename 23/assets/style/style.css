@@ -1,0 +1,292 @@
+.n1 .red {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+}
+.n1 .blue {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+    top: 70px;
+    left: 70px;
+}
+.n1 .green {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+    top: 135px;
+    left: 135px;
+}
+
+
+.n2 {
+    position: absolute;
+    top: 230px;
+}
+.n2 .red {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+}
+.n2 .blue {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+    left: 70px;
+}
+.n2 .green {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+    left: 140px;
+}
+
+
+
+.n3 {
+    position: absolute;
+    top: 360px;
+}
+.n3 .red {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+}
+.n3 .blue {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid blue;
+    top: 30px;
+    left: 30px;
+}
+.n3 .green {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+    top: 60px;
+    left: 60px;
+}
+
+
+
+.n4 {
+    position: absolute;
+    top: 500px;
+}
+.n4 .red {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 12, 93);
+}
+.n4 .blue {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 30px;
+    left: 30px;
+    background-color: rgb(181, 161, 255);
+}
+.n4 .green {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 60px;
+    left: 60px;
+    background-color: palegreen;
+}
+.n5 {
+    top: 800px;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    border: 1px solid green;
+}
+.n5 .child {
+    position: absolute;
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 100px;
+}
+
+
+
+
+.n6 {
+    top: 900px;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    border: 1px solid palegreen;
+    background-color: palegreen;
+}
+.n6 .child1 {
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    top: 40px;
+    left: 40px;
+}
+.n6 .child2 {
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    bottom: 40px;
+    right: 40px;
+}
+
+
+
+.n7 {
+    top: 1000px;
+    width: 200px;
+    height: 450px;
+    position: relative;
+    border: 1px solid rgb(0, 0, 0);
+}
+.n7 .child1 {
+    position: absolute;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    top: 60px;
+    left: 50px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 100%;
+}
+.n7 .child2 {
+    position: absolute;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    bottom: 175px;
+    left: 50px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 100%;
+}
+.n7 .child3 {
+    position: absolute;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    bottom: 60px;
+    left: 50px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 100%;
+}
+
+
+
+
+.n8 {
+    background-color: palegreen;
+    position: relative;
+    top: 1100px;
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+}
+.n8 .eye1 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    top: 15%;
+    left: 21%;
+    border-radius: 100%;
+}
+.n8 .eye2 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    top: 15%;
+    right: 21%;
+    border-radius: 100%;
+}
+.n8 .nose {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    top: 44%;
+    left: 44%;
+}
+.n8 .mouth {
+    position: absolute;
+    width: 180px;
+    height: 15px;
+    background-color: white;
+    top: 70%;
+    left: 28%;
+}
+
+
+
+
+.n9 {
+    background-color: #c4c400;
+    position: relative;
+    top: 1120px;
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+}
+.n9 .eye1 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    top: 15%;
+    left: 21%;
+    border-radius: 100%;
+}
+.n9 .eye2 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    top: 15%;
+    right: 21%;
+    border-radius: 100%;
+}
+.n9 .nose {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    top: 27%;
+    left: 37%;
+    border-radius: 100%;
+}
+.n9 .mouth {
+    position: absolute;
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    top: 46%;
+    left: 28%;
+    border-radius: 100%;
+}
+.n9 .mouth .idk {
+    position: absolute;
+    width: 240px;
+    height: 200px;
+    background-color: #c4c400;
+    bottom: 14%;
+    left: -18%;
+    border-radius: 100%;
+}
